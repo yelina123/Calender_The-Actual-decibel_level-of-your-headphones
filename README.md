@@ -9,7 +9,7 @@ You put on headphones. What is the decibel level in your actual ears? Is it bad 
 
 <img width="74" alt="image" src="https://github.com/user-attachments/assets/cb001f64-2e00-40b5-bf2b-28ce873a0eac">
 
-2.Open in your IDE【Unnecessary,you can run it withhout ide】
+2.Open in your IDE【Unnecessary,you can run it without ide,just python <path>】
 
 <img width="538" alt="image" src="https://github.com/user-attachments/assets/063c8124-820b-4dce-bda0-fd751965fed2">
 
